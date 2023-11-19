@@ -1,8 +1,8 @@
 
-# Advanced Package Manager Project
+# Advanced Package Manager Project (WIP!)
 
 ## Overview
-This project simulates an advanced package manager in Python, resembling functionalities of popular package managers like npm or pip. It includes features like dependency resolution, version control, and a sample Python application to demonstrate its usage.
+This project simulates an advanced package manager in Python, resembling functionalities of popular package managers like npm or pip. It includes features like dependency resolution, version control, and a sample Python application to demonstrate its usage. I would like to extend its benefits further. 
 
 ## Features
 - **Dependency Resolution**: Handles complex dependency trees for package installation.
@@ -38,5 +38,3 @@ To run the sample application:
 ## Testing
 Unit tests can be run by navigating to the `tests` directory and executing the test files.
 
-## Note
-This project is a simulation and is intended for educational and demonstration purposes. The package manager does not interact with real-world package repositories.
